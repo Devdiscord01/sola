@@ -1,0 +1,24 @@
+.border {
+    border-color: pink
+}
+
+.Banner {
+    margin-left: auto;
+    margin-right: auto
+}
+
+.link[data-v-b7139476] {
+    font-weight: 700;
+    --tw-text-opacity: 1;
+    color: rgba(255,255,255,var(--tw-text-opacity))
+}
+
+.link[data-v-b7139476]:hover {
+    --tw-text-opacity: 1;
+    color: rgba(209,213,219,var(--tw-text-opacity))
+}
+
+body {
+    --tw-bg-opacity: 1;
+    background-color: rgba(31,41,55,var(--tw-bg-opacity))
+}

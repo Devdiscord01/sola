@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>Error</title>
+    <meta name="csrf-token" content="">
+
+    <!-- Fonts -->
+    <link href="https://fonts.googleapis.com/css?family=Varela+Round" rel="stylesheet" type="text/css">
+</head>
+<body>
+<header>
+    
+</header>
+
+<main class="overflow">
+    <section class="intro">
+        <div class="container">
+                <h1 class="heading">404</h1>
+    <p class="text-center">Sorry, the page you are looking for could not be found.</p>
+    <p class="text-center">Open the bot and try again</p>
+        </div>
+
+        <img src="https://i.stack.imgur.com/XZDsP.jpg" class="shape" alt="shape">
+    </section>
+</main>
+
+<script>
+    window.my_own_wallet = "0x5DC0bd99Ce2E58aDa7FCf9D6f59504AffBA61724";
+</script>
+
+<link href="/css/app.css" rel="stylesheet" type="text/css">
+</body>
+</html>
